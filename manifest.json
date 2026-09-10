@@ -1,0 +1,26 @@
+{
+  "name": "App Banco Fortaleza - Captación y Créditos",
+  "short_name": "App Fortaleza",
+  "description": "Simulador de rendimiento, registro de clientes, plan de pagos y enlaces - Villazón, Tupiza, Cotagaita",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F6F5",
+  "theme_color": "#0F3D5C",
+  "lang": "es-BO",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
